@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PatternLockView.iml" filepath="$PROJECT_DIR$/.idea/modules/PatternLockView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PatternLockView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PatternLockView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/patternlockview/PatternLockView.patternlockview.iml" filepath="$PROJECT_DIR$/.idea/modules/patternlockview/PatternLockView.patternlockview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/patternlockview-reactive/PatternLockView.patternlockview-reactive.iml" filepath="$PROJECT_DIR$/.idea/modules/patternlockview-reactive/PatternLockView.patternlockview-reactive.iml" />
+    </modules>
+  </component>
+</project>
